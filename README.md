@@ -2,7 +2,7 @@
 
 This is a simple train schedule app written using nodejs. It is intended to be used as a sample application for a series of hands-on learning activities.
 
-Have a great weekend!
+This file from thu_branch!
 
 ## Running the app
 
