@@ -3,7 +3,7 @@
 This is a simple train schedule app written using nodejs. It is intended to be used as a sample application for a series of hands-on learning activities
 
 
-This file from master branch again!
+This file from master branch and modified .git/config file!
 
 ## Running the app
 
