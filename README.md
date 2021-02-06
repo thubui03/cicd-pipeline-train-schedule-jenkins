@@ -2,11 +2,8 @@
 
 This is a simple train schedule app written using nodejs. It is intended to be used as a sample application for a series of hands-on learning activities
 
-<<<<<<< HEAD
+
 This file from master branch!
-=======
-Thu New Git
->>>>>>> origin/master
 
 ## Running the app
 
